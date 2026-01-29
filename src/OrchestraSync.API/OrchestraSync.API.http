@@ -1,0 +1,6 @@
+@OrchestraSync.API_HostAddress = http://localhost:5056
+
+GET {{OrchestraSync.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

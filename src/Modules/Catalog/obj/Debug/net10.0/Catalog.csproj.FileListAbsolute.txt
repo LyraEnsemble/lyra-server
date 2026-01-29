@@ -1,0 +1,12 @@
+C:\Users\User\source\repos\OrchestraSync\src\Modules\Catalog\bin\Debug\net10.0\Catalog.deps.json
+C:\Users\User\source\repos\OrchestraSync\src\Modules\Catalog\bin\Debug\net10.0\Catalog.dll
+C:\Users\User\source\repos\OrchestraSync\src\Modules\Catalog\bin\Debug\net10.0\Catalog.pdb
+C:\Users\User\source\repos\OrchestraSync\src\Modules\Catalog\obj\Debug\net10.0\Catalog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\OrchestraSync\src\Modules\Catalog\obj\Debug\net10.0\Catalog.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\OrchestraSync\src\Modules\Catalog\obj\Debug\net10.0\Catalog.AssemblyInfo.cs
+C:\Users\User\source\repos\OrchestraSync\src\Modules\Catalog\obj\Debug\net10.0\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\OrchestraSync\src\Modules\Catalog\obj\Debug\net10.0\Catalog.dll
+C:\Users\User\source\repos\OrchestraSync\src\Modules\Catalog\obj\Debug\net10.0\refint\Catalog.dll
+C:\Users\User\source\repos\OrchestraSync\src\Modules\Catalog\obj\Debug\net10.0\Catalog.pdb
+C:\Users\User\source\repos\OrchestraSync\src\Modules\Catalog\obj\Debug\net10.0\ref\Catalog.dll
+C:\Users\User\source\repos\OrchestraSync\src\Modules\Catalog\obj\Debug\net10.0\Catalog.csproj.AssemblyReference.cache
